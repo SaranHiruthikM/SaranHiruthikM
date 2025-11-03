@@ -24,19 +24,19 @@
 
 ## 📊 GitHub Stats:
 
-![hirux06's Stats](https://github-readme-stats.vercel.app/api?username=hirux06&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![hirux06's Stats](https://github-readme-stats.vercel.app/api?username=SaranHiruthikM&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
 
-![hirux06's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirux06&theme=vue-dark&hide_border=true)
+![hirux06's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaranHiruthikM&theme=vue-dark&hide_border=true)
 
 
 
 
-![hirux06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirux06&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![hirux06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaranHiruthikM&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=hirux06&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=SaranHiruthikM&theme=tokyo-night)
 
 [![](https://visitcount.itsvg.in/api?id=hirux06&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
