@@ -29,8 +29,7 @@
 
 
 
-![hirux06's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaranHiruthikM&theme=vue-dark&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaranHiruthikM&theme=dark)](https://git.io/streak-stats)
 
 
 
